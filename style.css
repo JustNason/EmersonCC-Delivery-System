@@ -1,6 +1,6 @@
 h1 {
   color: white;
-  font-family: Impact, fantasy;
+  font-family: "Bebas Neue", sans-serif;
   animation: pulsate 0.11s ease-in-out infinite alternate;    
 }
 
@@ -55,3 +55,4 @@ body {
   background-color: #b30000;
   color: white;
 }
+
