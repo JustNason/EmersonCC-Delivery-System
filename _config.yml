@@ -1,10 +1,4 @@
-title: Emersons Delivery System
-description: some description
-google_analytics: 
-show_downloads: true 
-remote_theme: pages-themes/tactile@v0.2.0
 
+remote_theme: pages-themes/tactile@v0.2.0
 plugins:
-  - jekyll-include-cache
-  - gemfile
   - jekyll-remote-theme
