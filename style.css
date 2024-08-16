@@ -1,6 +1,6 @@
 h1 {
   color: white;
-  font-size: 100;
+  font-size: 100px;
   font-family: "Bebas Neue", sans-serif;
   animation: pulsate 0.11s ease-in-out infinite alternate;    
   text-align: center;
