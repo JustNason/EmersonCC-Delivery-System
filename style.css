@@ -1,5 +1,6 @@
 h1 {
   color: white;
+  font-size: 100;
   font-family: "Bebas Neue", sans-serif;
   animation: pulsate 0.11s ease-in-out infinite alternate;    
   text-align: center;
@@ -10,7 +11,7 @@ body {
 }
 .topnav a {
   float: left;
-  font-family: impact, sans-serif;
+  font-family: "Bebas Neue", sans-serif;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
