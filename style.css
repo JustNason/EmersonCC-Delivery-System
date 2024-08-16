@@ -2,6 +2,7 @@ h1 {
   color: white;
   font-family: "Bebas Neue", sans-serif;
   animation: pulsate 0.11s ease-in-out infinite alternate;    
+  text-align: center;
 }
 
 body {
