@@ -1,4 +1,4 @@
-h1 {
+vh1 {
   color: white;
   font-size: 100px;
   font-family: "Bebas Neue", sans-serif;
@@ -30,8 +30,8 @@ body {
     /* Larger blur radius */
     text-shadow:
       0 0 4px #fff,
-      0 0 11px #fff,
-      0 0 19px #fff,
+      0 0 11px #fad2d2,
+      0 0 19px #fad2d2,
       0 0 40px #ff0000,
       0 0 80px #ff0000,
       0 0 90px #ff0000,
@@ -42,8 +42,8 @@ body {
     /* A slightly smaller blur radius */
     text-shadow:
       0 0 4px #fff,
-      0 0 10px #fff,
-      0 0 18px #fff,
+      0 0 10px #fad2d2,
+      0 0 18px #fad2d2,
       0 0 38px #ff0000,
       0 0 73px #ff0000,
       0 0 80px #ff0000,
