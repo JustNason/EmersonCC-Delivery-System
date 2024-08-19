@@ -4,14 +4,14 @@ h1 {
   font-family: "Bebas Neue", sans-serif;  
   text-align: center;
   text-shadow:
-      0 0 4px #fff,
+      0 0 1px #fff,
+      0 0 5px #fad2d2,
       0 0 10px #fad2d2,
-      0 0 18px #fad2d2,
-      0 0 38px #ff0000,
-      0 0 73px #ff0000,
-      0 0 80px #ff0000,
-      0 0 94px #ff0000,
-      0 0 140px #ff0000;
+      0 0 18px #ff0000,
+      0 0 53px #ff0000,
+      0 0 40px #ff0000,
+      0 0 62px #ff0000,
+      0 0 120px #ff0000;
 }
 
 body {
