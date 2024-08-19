@@ -1,9 +1,17 @@
 h1 {
   color: white;
   font-size: 100px;
-  font-family: "Bebas Neue", sans-serif;
-  animation: pulsate 0.11s ease-in-out infinite alternate;    
+  font-family: "Bebas Neue", sans-serif;  
   text-align: center;
+  text-shadow:
+      0 0 4px #fff,
+      0 0 10px #fad2d2,
+      0 0 18px #fad2d2,
+      0 0 38px #ff0000,
+      0 0 73px #ff0000,
+      0 0 80px #ff0000,
+      0 0 94px #ff0000,
+      0 0 140px #ff0000;
 }
 
 body {
@@ -23,33 +31,6 @@ body {
 .topnav a:hover {
   background-color: #ddd;
   color: black;
-}
-
-@keyframes pulsate {
-  100% {
-    /* Larger blur radius */
-    text-shadow:
-      0 0 4px #fff,
-      0 0 11px #fad2d2,
-      0 0 19px #fad2d2,
-      0 0 40px #ff0000,
-      0 0 80px #ff0000,
-      0 0 90px #ff0000,
-      0 0 100px #ff0000,
-      0 0 150px #ff0000;
-  }
- 0% {
-    /* A slightly smaller blur radius */
-    text-shadow:
-      0 0 4px #fff,
-      0 0 10px #fad2d2,
-      0 0 18px #fad2d2,
-      0 0 38px #ff0000,
-      0 0 73px #ff0000,
-      0 0 80px #ff0000,
-      0 0 94px #ff0000,
-      0 0 140px #ff0000;
-  }
 }
 
 /* Add a color to the active/current link */
